@@ -14,7 +14,7 @@ public class Soal3 {
         double x = 92.98;
         int nx = (int) Math.round(x);
         
-        System.out.println(x);
-        System.out.println(nx);
+        System.out.println("Angka sebelum di bulatkan: " + x);
+        System.out.println("Angka sesudah di bulatkan: " + nx);
     }
 }
